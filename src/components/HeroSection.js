@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <image src="/img/contactMe.jpg" />
+            <img src={"/public/img/portrait2.JPG"} />
             <h1>Will Grbcich Realty</h1>
             <p>Helping St Louis Find Their Dream Homes</p>
             <div className="hero-btns">
