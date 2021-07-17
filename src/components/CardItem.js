@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-
+  
 function CardItem(props) {
     return (
      <>
@@ -17,5 +17,6 @@ function CardItem(props) {
      </>
     );
 }
+
 
 export default CardItem;

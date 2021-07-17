@@ -10,27 +10,27 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
-                            src='img/house1.jpg' text="Explore the hidden waterfall deep inside the Amazon"
-                            label='House 1' path='/services' 
+                            src='img/house1.jpg' text="Explore this gem in the heart of Clayton"
+                            path='/services' 
                         />
                         <CardItem 
-                            src='img/house2.jpg' text="Explore the hidden waterfall deep inside the Amazon"
-                            label='House 2' path='/services' 
+                            src='img/house3.jpg' text="Perfect home for a family in Dogtown!"
+                            path='/services' 
                         />    
                     </ul>
                     <h1>Helpful Resources Brought to you by Hermann London</h1>
                     <ul className="cards__items">
                         <CardItem 
-                            src='img/house1.jpg' text="Explore the hidden waterfall deep inside the Amazon"
-                            label='House 1' path='/services' 
+                            src='img/portrait.jpg' text="Check out my Realtor Spotlight from HL!"
+                            path='/services' 
                         />
                         <CardItem 
-                            src='img/house2.jpg' text="Explore the hidden waterfall deep inside the Amazon"
-                            label='House 2' path='/services' 
+                            src='img/house2.jpg' text="Add Caption Here"
+                            path='/services' 
                         />    
                         <CardItem 
-                            src='img/house2.jpg' text="Explore the hidden waterfall deep inside the Amazon"
-                            label='House 2' path='/services' 
+                            src='img/house2.jpg' text="Add Caption Here"
+                            path='/services' 
                         />    
                     </ul>
                 </div>

@@ -5,8 +5,8 @@ import './HeroSection.css';
 
 function HeroSection() {
     return (
-        <div className='hero-container'>
-            <img src={"/public/img/portrait2.JPG"} />
+        <div className='hero-container' style={{ backgroundImage: "url(img/sign3.jpg)", 
+                backgroundRepeat: 'no-repeat', backgroundPosition: 'center', WebkitBackgroundSize: 'cover' }}>
             <h1>Will Grbcich Realty</h1>
             <p>Helping St Louis Find Their Dream Homes</p>
             <div className="hero-btns">
